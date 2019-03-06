@@ -4,7 +4,7 @@ import SeededShuffle from 'seededshuffle';
 import openGraphImage from '../components/OpenGraph.png';
 import '../components/index/index.scss';
 
-const BASE_URL = 'https://bw.github.io';
+const BASE_URL = 'https://will-manidis-cascade.github.io/will-manidis-cascade/';
 
 const LUNCH_SPOTS = [
 
