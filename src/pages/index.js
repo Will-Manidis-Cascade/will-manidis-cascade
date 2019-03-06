@@ -16,12 +16,12 @@ const LUNCH_SPOTS = [
   'bartaco Seaport (Mexican)',
   "Buco Trattoria (Italian)",
   'Tatte (Tatte)',
-  'Bon Me',
+  'Bon Me (Bon Me)',
   'Yoki Express (Sushi)',
 
-  "Sweetgreen)",
+  "Sweetgreen (vegan bullshit)",
   'Marco Polo (Deli)',
-  "Aceituna",
+  "Aceituna (tuna)",
   "Metro Cafe (Lunch)",
 
   'Shake Shack',
@@ -123,7 +123,6 @@ class LunchBot extends React.Component {
               <br />
             </>
           )}
-          A fun little thing by <a href="https://brandon.wang">Brandon Wang</a>. Rebuilt by  <a href="https://WillManidis.com">Will Manidis</a> 
         </footer>
       </div>
     );
