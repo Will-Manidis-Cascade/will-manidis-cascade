@@ -576,12 +576,12 @@
       "siteMetadata": {},
       "pathPrefix": "/will-manidis-cascade",
       "polyfill": true,
-      "buildTime": "2019-03-06T18:05:05.052Z",
+      "buildTime": "2019-03-06T18:12:43.558Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "efcb77c38c9d8a7d4a139dfdb0255032",
+        "contentDigest": "6c2b108f9371af96686e4cbc9c5580f3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

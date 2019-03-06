@@ -8,8 +8,9 @@ const BASE_URL = 'https://will-manidis-cascade.github.io/will-manidis-cascade/';
 
 const LUNCH_SPOTS = [
 
-  'Flour Bakery (sandwiches)',
-  'Smoke Shop (BBQ)',
+  '<a>href="https://brandon.wang">Brandon Wang</a>',
+  'Flour Bakery (sandwiches): https://flourbakery.com/menu/',
+  'Smoke Shop (BBQ): ',
   'Lolita Cocina (Mexican)',
   "Kitchen Cafe (Breakfast + Brunch)",
   'Wheelhouse (Fast Lunch)',
