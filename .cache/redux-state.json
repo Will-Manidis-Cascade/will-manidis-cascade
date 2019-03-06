@@ -390,7 +390,7 @@
       "resolve": "/Users/will/Desktop/will-manidis-cascade",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "e80f28f3ee5984f8d58db352e525e678",
+      "version": "c860d26461035d9c64f24e8b286a51bc",
       "pluginOptions": {
         "plugins": []
       },
@@ -464,7 +464,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "08324b753c56b3e86a514c40b827d9fc",
+        "contentDigest": "a787c941f32a905df19375360d9a77cd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -574,14 +574,14 @@
     },
     "Site": {
       "siteMetadata": {},
-      "pathPrefix": "/lunchbot",
+      "pathPrefix": "/will-manidis-cascade",
       "polyfill": true,
-      "buildTime": "2019-03-06T17:50:13.723Z",
+      "buildTime": "2019-03-06T17:57:26.835Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e83ce655555abfacbf9eddfcd6371fad",
+        "contentDigest": "00feaa766b20113e197145c309958595",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -609,7 +609,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "988021dec9f90a2889f8994a9192b54e"
+    "PLUGINS_HASH": "e26ab434a5cad386fc76cee7f83055a9"
   },
   "componentDataDependencies": {
     "nodes": {},

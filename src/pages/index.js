@@ -118,7 +118,7 @@ class LunchBot extends React.Component {
         <footer>
           {startingSeed === seed && (
             <>
-              The Lunchbot makes a new fast-casual Fort POint suggestion every day or
+              The Lunchbot makes a new Fort Point 🍔 suggestion every day or
               on demand.
               <br />
             </>
