@@ -10,9 +10,11 @@
   "dependencies": {
     "gatsby-plugin-react-helmet": "^2.0.11",
     "lodash": "^4.17.10",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "package-lock.json": "^1.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "react-router-dom": "^4.3.1",
     "seededshuffle": "^0.2.0"
   },
   "devDependencies": {
