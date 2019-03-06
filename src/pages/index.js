@@ -66,7 +66,7 @@ class LunchBot extends React.Component {
 
     // Generate title/meta
     const title = 'The Fort Point Lunchbot';
-    const description = `Making tasty decisions. A Cascade.Bio project, forked from Brandon Wang.`;
+    const description = `Making tasty decisions.`;
 
     return (
       <div className="LunchBot">
