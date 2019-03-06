@@ -1,0 +1,25 @@
+{
+  "name": "lunchbot",
+  "description": "The Harvard Square lunchbot",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "lodash": "^4.17.10",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-helmet": "^5.2.0",
+    "seededshuffle": "^0.2.0"
+  },
+  "devDependencies": {
+    "gatsby": "next",
+    "gatsby-plugin-sass": "next",
+    "node-sass": "^4.9.3",
+    "gh-pages": "^1.2.0",
+    "prettier": "^1.14.2"
+  }
+}
